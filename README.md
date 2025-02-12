@@ -1,6 +1,6 @@
 # AsyncEuroReferenceXMLParser
 
-![](https://img.shields.io/badge/platform-osx%20%7C%20ios%20%7C%20watchos%20%7C%20tvos-lightgrey.svg)
+![](https://img.shields.io/badge/Swift-6-lightgrey.svg)
 
 ![](https://img.shields.io/badge/platform-osx%20%7C%20ios%20%7C%20watchos%20%7C%20tvos-lightgrey.svg)
 
